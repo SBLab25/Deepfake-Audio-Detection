@@ -1,0 +1,825 @@
+feature_path,label,language,audio_path
+en/fake/echo_78.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_78.wav
+hi/fake/audio_0983.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0983.wav
+en/fake/echo_88.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_88.wav
+en/real/5142_36377_000000_000003.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_36377_000000_000003.wav
+hi/real/02-16360-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-16360-01.mp3
+en/real/8555_284447_000064_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000064_000000.wav
+hi/real/01-04078-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04078-03.mp3
+en/real/8555_284449_000053_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284449_000053_000001.wav
+hi/fake/audio_0863.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0863.wav
+hi/real/01-07256-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-07256-01.mp3
+hi/real/02-20345-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20345-01.mp3
+hi/fake/audio_1312.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1312.wav
+en/real/8463_294828_000023_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8463_294828_000023_000000.wav
+en/fake/common_voice_en_652024-common_voice_en_652027.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_652024-common_voice_en_652027.wav
+hi/fake/audio_1720.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1720.wav
+en/fake/1995_26.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1995_26.wav
+hi/fake/audio_1109.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1109.wav
+en/fake/shimmer_67.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\shimmer_67.wav
+hi/fake/audio_0846.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0846.wav
+hi/real/01-12222-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-12222-01.mp3
+en/real/1284_1180_000024_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000024_000001.wav
+en/real/8463_294825_000027_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8463_294825_000027_000000.wav
+en/real/5683_32865_000016_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5683_32865_000016_000002.wav
+hi/fake/audio_0679.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0679.wav
+en/fake/common_voice_en_103675-common_voice_en_103677.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_103675-common_voice_en_103677.wav
+hi/fake/audio_1705.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1705.wav
+hi/real/13-00286-06.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\13-00286-06.mp3
+hi/fake/audio_1856.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1856.wav
+en/real/8555_284447_000025_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000025_000001.wav
+en/real/1284_1181_000036_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1181_000036_000000.wav
+en/real/260_123286_000028_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123286_000028_000000.wav
+en/fake/1995_9.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1995_9.wav
+en/fake/3526_18.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_18.wav
+en/real/672_122797_000002_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\672_122797_000002_000002.wav
+en/real/8463_294825_000048_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8463_294825_000048_000000.wav
+en/fake/95_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\95.wav
+hi/real/02-16792-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-16792-01.mp3
+en/real/1995_1826_000035_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1826_000035_000000.wav
+hi/real/02-23093-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-23093-01.mp3
+en/real/5142_33396_000017_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_33396_000017_000000.wav
+hi/real/02-22321-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-22321-01.mp3
+en/fake/alloy_65.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_65.wav
+hi/fake/audio_1539.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1539.wav
+hi/fake/audio_1247.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1247.wav
+hi/real/02-20588-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20588-01.mp3
+hi/real/01-01547-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01547-02.mp3
+hi/fake/audio_1080.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1080.wav
+hi/real/02-15547-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-15547-01.mp3
+en/real/5142_36377_000006_000006.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_36377_000006_000006.wav
+hi/fake/audio_0415.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0415.wav
+en/real/1995_1836_000041_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1836_000041_000000.wav
+en/fake/fable_71.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\fable_71.wav
+en/real/1580_141083_000113_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000113_000000.wav
+hi/real/01-07613-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-07613-02.mp3
+en/real/1188_133604_000006_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1188_133604_000006_000000.wav
+en/fake/4088_3.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4088_3.wav
+en/fake/common_voice_en_17893247-common_voice_en_17893246.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17893247-common_voice_en_17893246.wav
+en/real/121_127105_000030_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\121_127105_000030_000001.wav
+hi/real/01-08076-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-08076-02.mp3
+en/real/6829_68769_000024_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\6829_68769_000024_000000.wav
+en/fake/6829_33.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\6829_33.wav
+en/real/8555_284449_000048_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284449_000048_000000.wav
+hi/fake/audio_0858.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0858.wav
+hi/real/01-10461-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10461-02.mp3
+en/fake/6829_46.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\6829_46.wav
+en/fake/common_voice_en_56141-common_voice_en_56142.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_56141-common_voice_en_56142.wav
+hi/real/01-02440-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-02440-03.mp3
+hi/real/01-02191-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-02191-03.mp3
+hi/fake/audio_0552.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0552.wav
+hi/real/02-13278-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13278-01.mp3
+hi/fake/audio_0331.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0331.wav
+en/real/121_123859_000017_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\121_123859_000017_000001.wav
+hi/fake/audio_0877.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0877.wav
+en/fake/00004624-00000006.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004624-00000006.wav
+hi/fake/audio_0045.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0045.wav
+hi/fake/audio_0575.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0575.wav
+en/real/4077_13751_000011_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4077_13751_000011_000000.wav
+en/real/8224_274384_000032_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8224_274384_000032_000001.wav
+en/fake/alloy_80.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_80.wav
+hi/real/02-22276-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-22276-01.mp3
+en/fake/2.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\2.wav
+hi/fake/audio_1041.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1041.wav
+en/fake/onyx_92.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_92.wav
+en/fake/31.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\31.wav
+hi/real/01-01425-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01425-01.mp3
+en/real/237_126133_000010_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000010_000000.wav
+hi/real/02-20253-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20253-01.mp3
+hi/fake/audio_0823.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0823.wav
+hi/fake/audio_0956.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0956.wav
+hi/real/02-20028-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20028-01.mp3
+hi/fake/audio_1425.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1425.wav
+hi/real/13-00408-05.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\13-00408-05.mp3
+hi/fake/audio_0135.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0135.wav
+en/real/260_123288_000009_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123288_000009_000000.wav
+en/fake/100.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\100.wav
+hi/fake/audio_1818.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1818.wav
+hi/fake/audio_0252.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0252.wav
+hi/fake/audio_0185.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0185.wav
+en/fake/00004616-00000051.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004616-00000051.wav
+en/fake/1995_42.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1995_42.wav
+hi/fake/audio_1388.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1388.wav
+hi/real/02-16502-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-16502-01.mp3
+en/real/5142_33396_000008_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_33396_000008_000000.wav
+hi/fake/audio_1269.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1269.wav
+hi/fake/audio_0593.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0593.wav
+hi/real/01-10172-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10172-01.mp3
+en/real/4992_23283_000004_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4992_23283_000004_000000.wav
+hi/fake/audio_1332.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1332.wav
+en/fake/2391_32.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2391_32.wav
+hi/real/02-19750-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-19750-01.mp3
+hi/real/02-21821-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-21821-01.mp3
+hi/real/01-10139-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10139-02.mp3
+hi/fake/audio_1710.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1710.wav
+hi/real/01-00009-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-00009-01.mp3
+hi/real/01-08141-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-08141-02.mp3
+hi/fake/audio_1485.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1485.wav
+hi/fake/audio_0688.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0688.wav
+en/real/237_134500_000038_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134500_000038_000000.wav
+hi/fake/audio_1137.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1137.wav
+en/fake/common_voice_en_17268075-common_voice_en_17268076.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17268075-common_voice_en_17268076.wav
+hi/fake/audio_1493.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1493.wav
+hi/real/01-11653-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-11653-02.mp3
+en/real/1995_1836_000016_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1836_000016_000001.wav
+en/fake/6829_5.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\6829_5.wav
+en/real/7021_79740_000005_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79740_000005_000001.wav
+en/fake/nova_58.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_58.wav
+hi/real/02-17146-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-17146-01.mp3
+hi/real/01-10495-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10495-01.mp3
+hi/real/02-15951-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-15951-01.mp3
+en/fake/28_002.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\28.wav
+en/fake/1963_37.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1963_37.wav
+hi/fake/audio_0274.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0274.wav
+en/fake/4088_0.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4088_0.wav
+hi/real/02-16001-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-16001-01.mp3
+hi/real/01-10682-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10682-01.mp3
+en/real/908_157963_000004_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\908_157963_000004_000000.wav
+hi/fake/audio_0958.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0958.wav
+hi/fake/audio_0120.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0120.wav
+hi/fake/audio_1682.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1682.wav
+en/fake/onyx_77.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_77.wav
+en/real/237_134493_000012_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134493_000012_000000.wav
+en/real/1089_134691_000044_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1089_134691_000044_000001.wav
+hi/fake/audio_1453.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1453.wav
+hi/fake/audio_0705.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0705.wav
+en/fake/7.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\7.wav
+hi/real/02-13300-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13300-02.mp3
+hi/fake/audio_0777.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0777.wav
+hi/real/02-22627-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-22627-01.mp3
+hi/fake/audio_0021.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0021.wav
+hi/real/02-22294-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-22294-01.mp3
+en/real/2300_131720_000044_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2300_131720_000044_000001.wav
+hi/fake/audio_0842.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0842.wav
+hi/fake/audio_1420.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1420.wav
+en/real/8555_284449_000032_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284449_000032_000000.wav
+en/fake/1995_37.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1995_37.wav
+en/fake/fable_35.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\fable_35.wav
+en/fake/2391_3.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2391_3.wav
+hi/real/01-11042-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-11042-03.mp3
+hi/fake/audio_1695.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1695.wav
+en/fake/0_002.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\0.wav
+en/real/8555_284449_000041_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284449_000041_000001.wav
+en/fake/4214_42.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4214_42.wav
+en/fake/4088_39.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4088_39.wav
+hi/real/01-05097-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-05097-01.mp3
+en/real/237_134500_000008_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134500_000008_000001.wav
+hi/fake/audio_0920.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0920.wav
+hi/real/02-18699-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-18699-01.mp3
+hi/fake/audio_1046.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1046.wav
+en/fake/onyx_78.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_78.wav
+en/fake/00004591-00000010.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004591-00000010.wav
+en/real/260_123440_000023_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123440_000023_000001.wav
+en/fake/shimmer_60.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\shimmer_60.wav
+en/fake/2518_31.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2518_31.wav
+hi/real/01-04120-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04120-03.mp3
+en/real/1580_141083_000051_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000051_000000.wav
+en/fake/0.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\0.wav
+hi/fake/audio_0139.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0139.wav
+en/fake/00004654-00000096.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004654-00000096.wav
+en/real/1284_1180_000006_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000006_000002.wav
+en/fake/nova_55.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_55.wav
+en/real/1995_1826_000046_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1826_000046_000001.wav
+hi/real/02-15646-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-15646-01.mp3
+en/real/8555_284447_000042_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000042_000001.wav
+en/fake/38.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\38.wav
+hi/real/01-03533-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-03533-01.mp3
+hi/fake/audio_1034.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1034.wav
+en/real/4077_13751_000025_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4077_13751_000025_000000.wav
+en/fake/00004578-00000095.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004578-00000095.wav
+hi/fake/audio_0436.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0436.wav
+hi/real/02-18700-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-18700-01.mp3
+en/real/1580_141083_000017_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000017_000000.wav
+en/real/5683_32865_000015_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5683_32865_000015_000001.wav
+en/real/1089_134691_000054_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1089_134691_000054_000000.wav
+hi/fake/audio_1166.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1166.wav
+en/real/1284_1180_000042_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000042_000001.wav
+en/real/2830_3980_000091_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2830_3980_000091_000002.wav
+en/real/237_126133_000025_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000025_000001.wav
+en/real/237_126133_000029_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000029_000000.wav
+hi/fake/audio_0184.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0184.wav
+hi/real/01-06179-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06179-01.mp3
+en/real/6930_75918_000032_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\6930_75918_000032_000001.wav
+hi/real/01-05325-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-05325-01.mp3
+hi/real/01-10509-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10509-01.mp3
+en/fake/00004595-00000067.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004595-00000067.wav
+en/real/2830_3980_000014_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2830_3980_000014_000000.wav
+en/real/4992_23283_000034_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4992_23283_000034_000002.wav
+hi/real/01-10257-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10257-02.mp3
+hi/real/02-13391-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13391-01.mp3
+hi/fake/audio_1060.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1060.wav
+en/real/5142_33396_000024_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_33396_000024_000002.wav
+hi/real/01-10026-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10026-01.mp3
+en/real/4446_2271_000010_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4446_2271_000010_000000.wav
+hi/fake/audio_0215.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0215.wav
+en/real/1284_1181_000039_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1181_000039_000000.wav
+hi/fake/audio_1758.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1758.wav
+hi/real/02-17611-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-17611-01.mp3
+en/real/3575_170457_000023_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\3575_170457_000023_000002.wav
+en/real/4077_13754_000014_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4077_13754_000014_000000.wav
+en/real/1284_1180_000011_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000011_000000.wav
+en/real/260_123288_000030_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123288_000030_000001.wav
+hi/real/01-12195-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-12195-02.mp3
+en/real/1580_141084_000040_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141084_000040_000001.wav
+hi/real/02-13869-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13869-01.mp3
+hi/real/01-01891-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01891-03.mp3
+hi/fake/audio_0350.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0350.wav
+hi/fake/audio_0372.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0372.wav
+en/fake/00004531-00000037.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004531-00000037.wav
+en/real/1320_122617_000069_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1320_122617_000069_000000.wav
+en/real/1284_1180_000043_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000043_000000.wav
+en/real/1284_1180_000035_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000035_000000.wav
+hi/fake/audio_0404.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0404.wav
+en/real/237_134493_000008_000006.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134493_000008_000006.wav
+en/fake/00004525-00000019.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004525-00000019.wav
+en/real/1580_141083_000066_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000066_000002.wav
+en/real/260_123286_000022_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123286_000022_000001.wav
+hi/fake/audio_1844.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1844.wav
+en/fake/alloy_52.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_52.wav
+hi/real/01-10166-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10166-03.mp3
+hi/fake/audio_1614.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1614.wav
+en/fake/nova_18.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_18.wav
+en/real/260_123288_000041_000003.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123288_000041_000003.wav
+hi/real/02-17299-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-17299-01.mp3
+en/real/2961_961_000016_000003.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2961_961_000016_000003.wav
+en/real/237_126133_000005_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000005_000000.wav
+en/fake/fable_5.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\fable_5.wav
+en/real/8555_284447_000046_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000046_000000.wav
+en/real/7127_75946_000041_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7127_75946_000041_000001.wav
+en/fake/00004633-00000077.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004633-00000077.wav
+en/real/8224_274384_000026_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8224_274384_000026_000002.wav
+hi/fake/audio_0490.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0490.wav
+en/real/5105_28233_000016_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5105_28233_000016_000001.wav
+en/fake/echo_24.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_24.wav
+en/fake/nova_62.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_62.wav
+hi/real/01-08804-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-08804-03.mp3
+en/real/7021_79730_000052_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79730_000052_000000.wav
+en/fake/echo_55.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_55.wav
+en/fake/260_17.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\260_17.wav
+en/fake/2518_0.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2518_0.wav
+en/fake/00004658-00000080.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004658-00000080.wav
+hi/real/01-06694-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06694-01.mp3
+en/real/237_126133_000057_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000057_000000.wav
+hi/real/01-00168-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-00168-01.mp3
+hi/real/02-14479-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-14479-01.mp3
+hi/fake/audio_1016.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1016.wav
+en/real/8455_210777_000029_000003.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8455_210777_000029_000003.wav
+en/fake/fable_86.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\fable_86.wav
+hi/fake/audio_0513.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0513.wav
+hi/fake/audio_0395.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0395.wav
+en/real/237_126133_000059_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000059_000000.wav
+en/fake/common_voice_en_581024-common_voice_en_581027.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_581024-common_voice_en_581027.wav
+en/fake/4214_43.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4214_43.wav
+hi/real/02-12252-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-12252-02.mp3
+hi/real/01-02135-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-02135-02.mp3
+en/fake/92.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\92.wav
+en/fake/alloy_33.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_33.wav
+en/real/5142_36377_000002_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_36377_000002_000001.wav
+hi/fake/audio_1223.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1223.wav
+en/real/8455_210777_000015_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8455_210777_000015_000000.wav
+en/fake/echo_57.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_57.wav
+en/real/1320_122612_000014_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1320_122612_000014_000000.wav
+en/real/237_126133_000047_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000047_000000.wav
+hi/fake/audio_1761.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1761.wav
+en/real/4446_2273_000017_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4446_2273_000017_000000.wav
+hi/real/02-18026-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-18026-01.mp3
+en/fake/nova_28.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_28.wav
+en/fake/7021_41.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\7021_41.wav
+hi/real/01-04958-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04958-01.mp3
+en/real/4992_23283_000012_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4992_23283_000012_000000.wav
+en/fake/valle2_vctk_27_10s_valle.vocos_.0.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\valle2_vctk_27_10s_valle.vocos_.0.wav
+hi/real/02-17885-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-17885-01.mp3
+en/real/4077_13751_000008_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4077_13751_000008_000001.wav
+hi/real/13-00236-05.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\13-00236-05.mp3
+en/fake/00004645-00000061.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004645-00000061.wav
+en/fake/2518_28.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2518_28.wav
+en/fake/2391_47.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2391_47.wav
+en/real/6930_75918_000038_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\6930_75918_000038_000000.wav
+hi/real/01-00748-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-00748-01.mp3
+en/real/2961_961_000016_000004.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2961_961_000016_000004.wav
+en/real/8555_284447_000027_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000027_000000.wav
+hi/real/01-10520-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10520-02.mp3
+hi/real/01-12021-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-12021-01.mp3
+hi/real/02-13558-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13558-02.mp3
+en/fake/shimmer_26.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\shimmer_26.wav
+hi/real/01-09508-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09508-02.mp3
+hi/real/01-09729-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09729-02.mp3
+en/real/1284_1180_000039_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000039_000000.wav
+hi/fake/audio_1748.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1748.wav
+hi/fake/audio_0720.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0720.wav
+hi/fake/audio_0118.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0118.wav
+en/fake/audio28.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\PromptTTS2\audio28.wav
+en/fake/3526_45.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_45.wav
+en/fake/echo_47.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_47.wav
+en/real/8455_210777_000007_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8455_210777_000007_000000.wav
+en/fake/alloy_42.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_42.wav
+hi/real/01-01937-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01937-03.mp3
+hi/fake/audio_0637.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0637.wav
+hi/fake/audio_1214.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1214.wav
+hi/real/01-10355-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10355-02.mp3
+hi/fake/audio_1309.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1309.wav
+en/fake/shimmer_77.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\shimmer_77.wav
+en/real/5639_40744_000008_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5639_40744_000008_000002.wav
+hi/real/02-12543-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-12543-01.mp3
+en/fake/alloy_44.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_44.wav
+en/fake/27_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\NaturalSpeech3\27.wav
+hi/real/01-09641-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09641-02.mp3
+en/fake/10_002.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\10.wav
+en/fake/00004602-00000031.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004602-00000031.wav
+hi/fake/audio_0529.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0529.wav
+hi/real/02-12449-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-12449-01.mp3
+hi/fake/audio_0062.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0062.wav
+en/real/260_123288_000011_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123288_000011_000001.wav
+hi/fake/audio_1384.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1384.wav
+en/real/1580_141083_000090_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000090_000000.wav
+en/real/1995_1826_000045_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1826_000045_000001.wav
+en/real/1580_141084_000057_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141084_000057_000000.wav
+hi/real/02-20230-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20230-01.mp3
+hi/real/02-15968-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-15968-01.mp3
+hi/real/01-07500-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-07500-03.mp3
+en/fake/98.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\98.wav
+hi/real/01-09992-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09992-01.mp3
+en/fake/3526_47.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_47.wav
+en/fake/common_voice_en_86172-common_voice_en_86173.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_86172-common_voice_en_86173.wav
+hi/fake/audio_1471.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1471.wav
+hi/real/01-05388-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-05388-03.mp3
+en/real/260_123288_000019_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123288_000019_000001.wav
+hi/real/01-11934-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-11934-01.mp3
+hi/real/02-20565-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20565-01.mp3
+hi/real/01-09843-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09843-03.mp3
+en/real/8555_292519_000003_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_292519_000003_000000.wav
+en/real/5683_32865_000012_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5683_32865_000012_000000.wav
+en/real/121_127105_000041_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\121_127105_000041_000000.wav
+hi/real/01-00575-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-00575-01.mp3
+hi/fake/audio_0935.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0935.wav
+hi/real/01-07455-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-07455-02.mp3
+hi/real/02-12442-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-12442-02.mp3
+en/real/1320_122617_000021_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1320_122617_000021_000001.wav
+hi/real/01-06415-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06415-01.mp3
+hi/fake/audio_0121.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0121.wav
+hi/real/01-06032-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06032-01.mp3
+en/real/1284_1181_000012_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1181_000012_000000.wav
+en/fake/common_voice_en_15734837-common_voice_en_15734838.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_15734837-common_voice_en_15734838.wav
+en/real/4970_29095_000017_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4970_29095_000017_000000.wav
+en/fake/alloy_0.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_0.wav
+en/fake/00004652-00000023.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004652-00000023.wav
+en/fake/00004650-00000056.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004650-00000056.wav
+hi/real/01-06265-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06265-02.mp3
+hi/fake/audio_1281.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1281.wav
+hi/real/02-20812-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20812-01.mp3
+hi/fake/audio_1664.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1664.wav
+hi/fake/audio_0812.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0812.wav
+en/real/8463_287645_000003_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8463_287645_000003_000001.wav
+en/fake/4214_39.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4214_39.wav
+en/real/3575_170457_000050_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\3575_170457_000050_000002.wav
+hi/fake/audio_0618.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0618.wav
+hi/fake/audio_1554.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1554.wav
+en/real/1580_141084_000051_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141084_000051_000000.wav
+en/fake/00004584-00000109.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004584-00000109.wav
+en/fake/79_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\79.wav
+hi/real/02-21654-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-21654-01.mp3
+en/fake/108.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\108.wav
+en/real/260_123286_000019_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123286_000019_000002.wav
+hi/real/01-03509-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-03509-02.mp3
+hi/real/01-06653-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06653-01.mp3
+en/fake/00004514-00000036.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004514-00000036.wav
+hi/fake/audio_0208.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0208.wav
+en/real/121_127105_000025_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\121_127105_000025_000000.wav
+en/fake/00004547-00000106.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004547-00000106.wav
+en/real/1995_1836_000030_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1836_000030_000000.wav
+en/fake/2391_42.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2391_42.wav
+en/real/3729_6852_000037_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\3729_6852_000037_000000.wav
+hi/real/02-18709-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-18709-01.mp3
+hi/real/01-02587-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-02587-01.mp3
+en/real/4970_29093_000039_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4970_29093_000039_000000.wav
+hi/fake/audio_1683.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1683.wav
+en/fake/shimmer_93.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\shimmer_93.wav
+hi/fake/audio_0673.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0673.wav
+hi/fake/audio_1538.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1538.wav
+en/fake/41_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\41.wav
+hi/real/02-16880-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-16880-01.mp3
+en/fake/common_voice_en_563060-common_voice_en_563063.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_563060-common_voice_en_563063.wav
+en/fake/nova_85.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_85.wav
+en/fake/4446_46.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4446_46.wav
+hi/fake/audio_1397.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1397.wav
+en/fake/alloy_19.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_19.wav
+en/fake/102_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\102.wav
+en/fake/28.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\28.wav
+en/real/8224_274384_000037_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8224_274384_000037_000000.wav
+hi/fake/audio_0672.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0672.wav
+en/real/5683_32865_000020_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5683_32865_000020_000000.wav
+en/real/1580_141084_000006_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141084_000006_000000.wav
+hi/real/01-09437-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09437-02.mp3
+en/real/5142_33396_000012_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_33396_000012_000002.wav
+en/fake/3526_24.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_24.wav
+hi/real/01-00935-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-00935-01.mp3
+hi/real/01-08664-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-08664-01.mp3
+en/fake/3526_33.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_33.wav
+en/fake/16_002.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\16.wav
+en/real/1284_1181_000033_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1181_000033_000000.wav
+en/real/2830_3979_000012_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2830_3979_000012_000000.wav
+hi/fake/audio_1632.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1632.wav
+en/real/237_126133_000037_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000037_000000.wav
+en/real/4992_41797_000013_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4992_41797_000013_000000.wav
+hi/real/02-18147-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-18147-01.mp3
+hi/real/01-00162-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-00162-02.mp3
+hi/real/01-09163-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09163-02.mp3
+hi/real/02-12311-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-12311-02.mp3
+en/fake/shimmer_95.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\shimmer_95.wav
+en/fake/110.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\110.wav
+hi/real/01-04207-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04207-01.mp3
+en/real/237_134500_000017_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134500_000017_000001.wav
+hi/real/01-03096-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-03096-01.mp3
+hi/real/02-18848-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-18848-01.mp3
+hi/real/13-00225-05.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\13-00225-05.mp3
+en/real/8463_294825_000036_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8463_294825_000036_000000.wav
+en/fake/common_voice_en_17278904-common_voice_en_17278905.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17278904-common_voice_en_17278905.wav
+en/real/7729_102255_000005_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7729_102255_000005_000000.wav
+hi/fake/audio_1347.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1347.wav
+en/real/1995_1826_000055_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1826_000055_000000.wav
+en/real/908_31957_000023_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\908_31957_000023_000002.wav
+en/real/5142_33396_000016_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_33396_000016_000000.wav
+en/real/908_31957_000019_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\908_31957_000019_000001.wav
+hi/real/13-00246-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\13-00246-02.mp3
+hi/fake/audio_1678.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1678.wav
+en/real/1580_141083_000079_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000079_000001.wav
+hi/fake/audio_1507.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1507.wav
+hi/fake/audio_0738.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0738.wav
+en/fake/nova_67.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_67.wav
+hi/fake/audio_0454.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0454.wav
+en/real/1284_1180_000025_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000025_000000.wav
+en/fake/librispeech_3570-5696-0002_ours1.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\librispeech_3570-5696-0002_ours1.wav
+en/fake/common_voice_en_17375252-common_voice_en_17375256.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17375252-common_voice_en_17375256.wav
+en/fake/4214_35.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4214_35.wav
+en/fake/nova_14.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_14.wav
+hi/real/01-09090-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09090-01.mp3
+hi/fake/audio_0703.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0703.wav
+en/fake/shimmer_36.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\shimmer_36.wav
+hi/fake/audio_1168.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1168.wav
+hi/fake/audio_0127.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0127.wav
+hi/real/01-09070-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09070-02.mp3
+hi/real/01-07422-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-07422-01.mp3
+en/fake/common_voice_en_631730-common_voice_en_631731.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_631730-common_voice_en_631731.wav
+en/real/237_134493_000013_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134493_000013_000001.wav
+hi/real/01-07205-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-07205-03.mp3
+en/fake/alloy_73.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_73.wav
+hi/real/01-04657-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04657-03.mp3
+en/real/8555_284447_000058_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000058_000000.wav
+en/real/4992_41797_000011_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4992_41797_000011_000000.wav
+en/fake/00004628-00000065.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004628-00000065.wav
+en/real/1089_134691_000006_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1089_134691_000006_000000.wav
+en/fake/237_32.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\237_32.wav
+en/real/7021_79740_000007_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79740_000007_000000.wav
+en/fake/common_voice_en_17347410-common_voice_en_17347409.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17347410-common_voice_en_17347409.wav
+en/real/1580_141084_000028_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141084_000028_000002.wav
+en/fake/10.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\10.wav
+hi/fake/audio_1843.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1843.wav
+hi/fake/audio_1381.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1381.wav
+hi/real/01-00041-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-00041-03.mp3
+en/real/8555_284449_000059_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284449_000059_000001.wav
+en/fake/common_voice_en_71427-common_voice_en_71425.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_71427-common_voice_en_71425.wav
+en/real/237_126133_000034_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000034_000000.wav
+en/real/260_123288_000041_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123288_000041_000002.wav
+hi/fake/audio_0203.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0203.wav
+en/fake/common_voice_en_684395-common_voice_en_684399.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_684395-common_voice_en_684399.wav
+en/fake/nova_26.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_26.wav
+hi/real/01-01541-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01541-01.mp3
+en/real/1580_141083_000123_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000123_000001.wav
+hi/fake/audio_0112.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0112.wav
+en/fake/nova_45.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_45.wav
+hi/fake/audio_0805.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0805.wav
+hi/real/13-00241-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\13-00241-02.mp3
+en/fake/fable_29.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\fable_29.wav
+en/fake/common_voice_en_17324784-common_voice_en_17324785.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17324784-common_voice_en_17324785.wav
+en/real/237_126133_000043_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000043_000000.wav
+en/real/3729_6852_000008_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\3729_6852_000008_000001.wav
+hi/fake/audio_0763.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0763.wav
+hi/real/02-14253-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-14253-01.mp3
+en/fake/3526_5.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_5.wav
+en/real/3575_170457_000040_000004.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\3575_170457_000040_000004.wav
+hi/real/01-07092-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-07092-01.mp3
+en/fake/1963_30.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1963_30.wav
+hi/real/01-10775-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10775-01.mp3
+en/real/260_123288_000040_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123288_000040_000000.wav
+en/real/7021_79740_000015_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79740_000015_000002.wav
+en/fake/alloy_74.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_74.wav
+hi/real/01-05580-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-05580-01.mp3
+en/fake/260_9.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\260_9.wav
+en/real/4507_16021_000030_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4507_16021_000030_000000.wav
+en/fake/common_voice_en_93674-common_voice_en_93675.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_93674-common_voice_en_93675.wav
+hi/fake/audio_0929.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0929.wav
+en/fake/6829_22.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\6829_22.wav
+hi/fake/audio_1357.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1357.wav
+hi/real/02-16995-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-16995-01.mp3
+hi/real/02-21899-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-21899-01.mp3
+en/real/237_126133_000008_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000008_000000.wav
+en/real/7021_79730_000062_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79730_000062_000000.wav
+hi/fake/audio_1511.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1511.wav
+en/fake/7021_1.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\7021_1.wav
+en/fake/vctk_diversity_p226_s1.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\vctk_diversity_p226_s1.wav
+en/real/2830_3980_000108_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2830_3980_000108_000000.wav
+en/fake/1_002.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\1.wav
+hi/fake/audio_0268.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0268.wav
+hi/fake/audio_1526.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1526.wav
+hi/real/02-22258-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-22258-01.mp3
+hi/real/02-15931-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-15931-01.mp3
+en/real/7021_79740_000013_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79740_000013_000000.wav
+en/fake/common_voice_en_17406452-common_voice_en_17406466.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17406452-common_voice_en_17406466.wav
+en/fake/00004549-00000046.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004549-00000046.wav
+en/real/8555_284449_000055_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284449_000055_000001.wav
+hi/real/02-20142-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20142-01.mp3
+hi/fake/audio_0975.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0975.wav
+en/fake/2391_30.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2391_30.wav
+hi/fake/audio_0159.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0159.wav
+en/fake/common_voice_en_17277080-common_voice_en_17277082.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17277080-common_voice_en_17277082.wav
+hi/real/13-00131-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\13-00131-03.mp3
+hi/real/01-10163-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10163-02.mp3
+en/fake/echo_28.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_28.wav
+hi/real/01-10124-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-10124-01.mp3
+en/real/7176_88083_000002_000004.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7176_88083_000002_000004.wav
+en/fake/shimmer_25.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\shimmer_25.wav
+hi/fake/audio_0378.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0378.wav
+en/fake/1963_4.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1963_4.wav
+en/fake/00004656-00000075.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004656-00000075.wav
+en/fake/echo_18.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_18.wav
+en/real/121_127105_000015_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\121_127105_000015_000000.wav
+hi/real/02-22066-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-22066-01.mp3
+hi/fake/audio_0847.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0847.wav
+en/real/8555_284449_000029_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284449_000029_000001.wav
+hi/fake/audio_0886.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0886.wav
+en/real/7127_75946_000055_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7127_75946_000055_000000.wav
+en/fake/66.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\66.wav
+hi/fake/audio_1602.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1602.wav
+hi/real/02-21573-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-21573-01.mp3
+hi/fake/audio_0026.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0026.wav
+en/real/1995_1836_000036_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1836_000036_000000.wav
+en/fake/00004565-00000090.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004565-00000090.wav
+hi/fake/audio_1757.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1757.wav
+hi/fake/audio_0875.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0875.wav
+en/real/1284_1180_000040_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000040_000000.wav
+hi/fake/audio_0015.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0015.wav
+hi/fake/audio_0069.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0069.wav
+en/real/4446_2271_000016_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4446_2271_000016_000000.wav
+en/real/1089_134691_000047_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1089_134691_000047_000000.wav
+hi/fake/audio_0570.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0570.wav
+hi/real/01-08569-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-08569-03.mp3
+en/real/7021_79740_000018_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79740_000018_000002.wav
+hi/fake/audio_1154.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1154.wav
+hi/real/02-19300-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-19300-01.mp3
+hi/real/01-04552-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04552-03.mp3
+en/fake/fable_43.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\fable_43.wav
+en/fake/common_voice_en_10933823-common_voice_en_10933825.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_10933823-common_voice_en_10933825.wav
+en/real/1580_141083_000012_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000012_000000.wav
+hi/fake/audio_1852.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1852.wav
+hi/real/02-14968-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-14968-01.mp3
+en/fake/6829_3.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\6829_3.wav
+en/real/8555_292519_000004_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_292519_000004_000000.wav
+hi/fake/audio_0282.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0282.wav
+en/real/2830_3980_000019_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2830_3980_000019_000000.wav
+hi/fake/audio_1043.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1043.wav
+en/real/237_126133_000032_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000032_000000.wav
+hi/real/01-03877-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-03877-03.mp3
+hi/real/01-04918-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04918-02.mp3
+en/fake/2391_37.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2391_37.wav
+hi/fake/audio_0002.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0002.wav
+hi/real/02-15285-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-15285-01.mp3
+en/real/5683_32865_000016_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5683_32865_000016_000000.wav
+en/fake/00004567-00000051.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004567-00000051.wav
+en/real/121_127105_000013_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\121_127105_000013_000000.wav
+en/real/237_126133_000060_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000060_000000.wav
+hi/fake/audio_1590.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1590.wav
+en/real/1580_141084_000063_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141084_000063_000001.wav
+en/real/1284_1181_000005_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1181_000005_000000.wav
+en/fake/common_voice_en_17147545-common_voice_en_17147546.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17147545-common_voice_en_17147546.wav
+en/fake/onyx_59.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_59.wav
+hi/fake/audio_1814.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1814.wav
+hi/fake/audio_0803.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0803.wav
+hi/real/02-19218-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-19218-01.mp3
+en/fake/3526_49.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_49.wav
+hi/fake/audio_0723.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0723.wav
+en/real/237_134500_000020_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134500_000020_000000.wav
+hi/fake/audio_0952.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0952.wav
+en/fake/onyx_84.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_84.wav
+hi/fake/audio_1010.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1010.wav
+hi/fake/audio_0912.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0912.wav
+hi/real/02-13064-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13064-02.mp3
+en/real/5639_40744_000011_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5639_40744_000011_000001.wav
+en/fake/emov_db_sleepiness_ours.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\emov_db_sleepiness_ours.wav
+en/fake/common_voice_en_575287-common_voice_en_575288.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_575287-common_voice_en_575288.wav
+en/real/8463_294825_000035_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8463_294825_000035_000000.wav
+en/real/237_126133_000013_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000013_000000.wav
+hi/real/02-20426-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20426-01.mp3
+en/real/8555_284449_000015_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284449_000015_000000.wav
+hi/fake/audio_0168.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0168.wav
+hi/real/13-00326-05.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\13-00326-05.mp3
+en/real/1580_141084_000041_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141084_000041_000001.wav
+hi/real/01-01611-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01611-01.mp3
+en/fake/16.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\16.wav
+en/real/8463_287645_000003_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8463_287645_000003_000002.wav
+en/fake/68_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\68.wav
+hi/fake/audio_0835.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0835.wav
+en/fake/fable_81.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\fable_81.wav
+en/fake/nova_90.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\nova_90.wav
+en/real/260_123286_000034_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123286_000034_000002.wav
+en/real/4507_16021_000013_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4507_16021_000013_000000.wav
+en/real/8555_284447_000043_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000043_000000.wav
+hi/fake/audio_0694.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0694.wav
+hi/real/01-11515-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-11515-02.mp3
+en/real/4970_29093_000026_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4970_29093_000026_000000.wav
+en/real/1580_141083_000049_000008.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000049_000008.wav
+hi/real/02-21385-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-21385-01.mp3
+en/fake/vctk_diversity_p246_s2.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\vctk_diversity_p246_s2.wav
+hi/fake/audio_0793.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0793.wav
+en/real/8555_284447_000015_000003.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000015_000003.wav
+en/fake/6829_11.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\6829_11.wav
+hi/real/02-17842-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-17842-01.mp3
+en/fake/onyx_69.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_69.wav
+en/real/1089_134686_000027_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1089_134686_000027_000000.wav
+hi/fake/audio_1885.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1885.wav
+en/real/7127_75946_000057_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7127_75946_000057_000002.wav
+hi/real/01-07881-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-07881-03.mp3
+en/fake/vctk_p262_ours.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\vctk_p262_ours.wav
+hi/real/02-13046-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13046-01.mp3
+hi/fake/audio_1692.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1692.wav
+hi/fake/audio_1700.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1700.wav
+en/fake/1995_15.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1995_15.wav
+en/fake/echo_90.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_90.wav
+hi/real/01-01589-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01589-01.mp3
+hi/real/02-22822-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-22822-01.mp3
+hi/fake/audio_1158.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1158.wav
+hi/fake/audio_1012.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1012.wav
+en/fake/112.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\112.wav
+hi/real/02-13462-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13462-02.mp3
+en/fake/237_45.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\237_45.wav
+hi/fake/audio_0256.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0256.wav
+en/fake/72_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VoiceBox\72.wav
+en/real/4970_29093_000012_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4970_29093_000012_000000.wav
+en/real/1995_1836_000025_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1836_000025_000000.wav
+hi/real/01-04484-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04484-02.mp3
+en/fake/onyx_86.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_86.wav
+en/real/1320_122612_000038_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1320_122612_000038_000000.wav
+hi/real/02-15985-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-15985-01.mp3
+hi/fake/audio_1290.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1290.wav
+en/real/1580_141083_000087_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000087_000002.wav
+hi/real/01-09767-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-09767-02.mp3
+en/fake/90.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\90.wav
+en/real/3729_6852_000035_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\3729_6852_000035_000001.wav
+en/real/8224_274384_000001_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8224_274384_000001_000000.wav
+hi/real/01-02976-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-02976-02.mp3
+hi/real/01-06783-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06783-02.mp3
+hi/fake/audio_0086.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0086.wav
+en/fake/104.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\FlashSpeech\104.wav
+hi/real/01-02893-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-02893-03.mp3
+en/fake/4214_29.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4214_29.wav
+en/real/8224_274384_000028_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8224_274384_000028_000000.wav
+en/real/1284_1180_000020_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000020_000000.wav
+en/real/1320_122612_000005_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1320_122612_000005_000001.wav
+en/real/1320_122612_000017_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1320_122612_000017_000000.wav
+en/fake/9_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\NaturalSpeech3\9.wav
+en/real/2830_3979_000016_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\2830_3979_000016_000001.wav
+hi/real/01-04986-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04986-03.mp3
+en/fake/1_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\NaturalSpeech3\1.wav
+hi/real/01-06088-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06088-02.mp3
+hi/real/02-14804-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-14804-01.mp3
+hi/real/02-16522-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-16522-01.mp3
+en/fake/8_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\NaturalSpeech3\8.wav
+hi/real/02-20913-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-20913-01.mp3
+en/fake/260_42.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\260_42.wav
+hi/fake/audio_1815.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1815.wav
+hi/real/01-06508-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-06508-01.mp3
+en/fake/3526_14.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_14.wav
+en/real/8230_279154_000002_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8230_279154_000002_000000.wav
+hi/real/01-00944-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-00944-03.mp3
+hi/real/01-05086-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-05086-01.mp3
+hi/fake/audio_0928.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0928.wav
+en/fake/2391_27.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\2391_27.wav
+en/fake/common_voice_en_2072999-common_voice_en_2324746.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_2072999-common_voice_en_2324746.wav
+en/fake/4214_31.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4214_31.wav
+en/fake/echo_81.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_81.wav
+en/fake/6829_27.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\6829_27.wav
+hi/fake/audio_0417.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0417.wav
+en/real/1995_1826_000036_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1826_000036_000000.wav
+en/real/4992_41797_000006_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4992_41797_000006_000000.wav
+en/fake/1320-122617-0011.valle_.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\1320-122617-0011.valle_.wav
+en/fake/00004526-00000053.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004526-00000053.wav
+en/fake/alloy_95.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_95.wav
+en/real/121_121726_000034_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\121_121726_000034_000001.wav
+en/real/237_126133_000017_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000017_000001.wav
+en/real/7021_79730_000055_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79730_000055_000001.wav
+en/real/7021_79740_000011_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\7021_79740_000011_000000.wav
+en/real/1580_141083_000001_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000001_000002.wav
+hi/fake/audio_0536.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0536.wav
+hi/real/01-01947-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01947-02.mp3
+en/fake/00004599-00000050.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004599-00000050.wav
+en/fake/00004565-00000062.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004565-00000062.wav
+hi/fake/audio_1866.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1866.wav
+hi/fake/audio_0560.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0560.wav
+en/fake/librispeech_4077-13754-0000_ours.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\librispeech_4077-13754-0000_ours.wav
+hi/fake/audio_0408.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0408.wav
+hi/fake/audio_1478.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1478.wav
+en/real/1580_141083_000061_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000061_000001.wav
+hi/real/01-02794-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-02794-02.mp3
+en/real/8463_287645_000006_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8463_287645_000006_000000.wav
+hi/real/01-05600-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-05600-03.mp3
+en/real/1320_122617_000043_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1320_122617_000043_000001.wav
+en/fake/237_31.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\237_31.wav
+hi/real/02-18595-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-18595-01.mp3
+en/fake/echo_56.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\echo_56.wav
+en/real/1580_141083_000067_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000067_000000.wav
+hi/real/02-13864-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13864-01.mp3
+en/real/237_134500_000015_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134500_000015_000000.wav
+en/real/1995_1836_000019_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1836_000019_000000.wav
+hi/fake/audio_0250.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0250.wav
+en/fake/common_voice_en_17519982-common_voice_en_17519985.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17519982-common_voice_en_17519985.wav
+en/real/1284_1180_000027_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1284_1180_000027_000000.wav
+hi/fake/audio_1135.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1135.wav
+hi/fake/audio_1734.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1734.wav
+en/fake/7021_47.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\7021_47.wav
+hi/real/01-04192-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-04192-02.mp3
+en/real/4992_23283_000051_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4992_23283_000051_000000.wav
+en/real/260_123440_000022_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123440_000022_000000.wav
+hi/fake/audio_0962.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0962.wav
+en/real/4970_29093_000043_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4970_29093_000043_000000.wav
+hi/real/02-21144-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-21144-01.mp3
+en/fake/alloy_87.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\alloy_87.wav
+en/fake/7021_25.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\7021_25.wav
+en/fake/7021_49.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\7021_49.wav
+hi/fake/audio_1421.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1421.wav
+en/real/1580_141083_000088_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1580_141083_000088_000000.wav
+hi/fake/audio_0970.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0970.wav
+en/real/5142_33396_000006_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_33396_000006_000001.wav
+hi/fake/audio_0357.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0357.wav
+en/real/5142_36377_000011_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5142_36377_000011_000001.wav
+en/real/5683_32865_000013_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5683_32865_000013_000002.wav
+hi/fake/audio_0017.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0017.wav
+hi/fake/audio_1097.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1097.wav
+en/fake/onyx_33.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_33.wav
+en/fake/common_voice_en_17830764-common_voice_en_17830762.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17830764-common_voice_en_17830762.wav
+en/real/5105_28241_000002_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\5105_28241_000002_000000.wav
+hi/fake/audio_0258.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0258.wav
+hi/fake/audio_1595.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1595.wav
+en/real/260_123440_000023_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\260_123440_000023_000000.wav
+hi/fake/audio_0885.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0885.wav
+en/fake/onyx_97.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\onyx_97.wav
+en/fake/fable_98.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\OpenAI\fable_98.wav
+hi/fake/audio_0868.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0868.wav
+hi/fake/audio_1663.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1663.wav
+hi/real/02-13521-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-13521-02.mp3
+en/real/237_134500_000006_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_134500_000006_000000.wav
+en/fake/1963_39.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1963_39.wav
+en/real/1995_1826_000022_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1826_000022_000001.wav
+en/real/8555_284447_000054_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\8555_284447_000054_000001.wav
+hi/real/01-05243-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-05243-02.mp3
+hi/fake/audio_1831.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1831.wav
+en/real/3575_170457_000037_000002.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\3575_170457_000037_000002.wav
+hi/real/02-12566-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-12566-01.mp3
+hi/fake/audio_1606.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1606.wav
+hi/fake/audio_1441.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1441.wav
+hi/real/02-19535-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-19535-01.mp3
+hi/fake/audio_1205.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1205.wav
+hi/fake/audio_1613.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1613.wav
+hi/real/01-03345-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-03345-02.mp3
+en/fake/00004556-00000047.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004556-00000047.wav
+hi/real/01-11603-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-11603-02.mp3
+en/fake/3526_20.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\3526_20.wav
+hi/fake/audio_1352.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1352.wav
+en/fake/common_voice_en_17281385-common_voice_en_17281386.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17281385-common_voice_en_17281386.wav
+en/fake/4446_23.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4446_23.wav
+hi/fake/audio_1569.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1569.wav
+hi/fake/audio_0396.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0396.wav
+hi/real/02-15790-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-15790-01.mp3
+en/fake/5142-36377-0023.valle_.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\VALLE\5142-36377-0023.valle_.wav
+hi/fake/audio_0765.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0765.wav
+en/real/1995_1837_000016_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1837_000016_000001.wav
+hi/fake/audio_1745.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1745.wav
+hi/fake/audio_1865.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1865.wav
+hi/fake/audio_1174.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1174.wav
+hi/real/02-16278-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-16278-01.mp3
+en/real/908_157963_000029_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\908_157963_000029_000000.wav
+hi/fake/audio_1148.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1148.wav
+en/fake/4088_10.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\4088_10.wav
+hi/fake/audio_0020.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0020.wav
+en/real/1995_1826_000022_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1826_000022_000000.wav
+hi/fake/audio_1881.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1881.wav
+hi/fake/audio_1651.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1651.wav
+hi/fake/audio_0893.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_0893.wav
+en/real/237_126133_000028_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\237_126133_000028_000000.wav
+en/fake/common_voice_en_17256676-common_voice_en_17256678.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17256676-common_voice_en_17256678.wav
+en/fake/00004563-00000025.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\00004563-00000025.wav
+en/fake/7021_9.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\7021_9.wav
+en/real/1995_1837_000015_000003.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1995_1837_000015_000003.wav
+en/fake/common_voice_en_17874600-common_voice_en_17874601.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\seedtts_files\common_voice_en_17874600-common_voice_en_17874601.wav
+en/fake/237_36.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\237_36.wav
+en/real/4970_29093_000024_000001.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\4970_29093_000024_000001.wav
+hi/real/01-01972-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-01972-03.mp3
+hi/real/01-05119-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-05119-01.mp3
+hi/real/01-11549-03.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-11549-03.mp3
+en/real/1089_134686_000035_000000.npy,real,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng real\eng real\1089_134686_000035_000000.wav
+en/fake/2_001.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\NaturalSpeech3\2.wav
+en/fake/1995_23.npy,fake,en,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\eng fake\xTTS\1995_23.wav
+hi/real/02-18625-01.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-18625-01.mp3
+hi/fake/audio_1448.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1448.wav
+hi/real/01-02603-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\01-02603-02.mp3
+hi/fake/audio_1846.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1846.wav
+hi/real/02-12525-02.npy,real,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi real\hindi real\02-12525-02.mp3
+hi/fake/audio_1807.npy,fake,hi,C:\Users\sovan\Documents\VS Code\SDP\Raw Dataset\hindi fake\fake_hindi_audio\audio_1807.wav

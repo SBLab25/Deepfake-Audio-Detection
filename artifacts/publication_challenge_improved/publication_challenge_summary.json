@@ -1,0 +1,43 @@
+{
+  "protocol": "RawCh held-out-generator challenge",
+  "model": "SafariWavLMEnsemble",
+  "feature_root": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\WavLM_embeddings_unified",
+  "seeds": [
+    17,
+    42,
+    77,
+    123,
+    202
+  ],
+  "threshold": 0.198,
+  "val_metrics": {
+    "n": 1605,
+    "threshold": 0.198,
+    "roc_auc": 0.9856780258665415,
+    "accuracy": 0.940809968847352,
+    "balanced_accuracy": 0.9409203033400335,
+    "precision": 0.9335839598997494,
+    "recall": 0.9466327827191868,
+    "f1": 0.9400630914826499,
+    "tn": 765,
+    "fp": 53,
+    "fn": 42,
+    "tp": 745
+  },
+  "test_metrics": {
+    "n": 2815,
+    "threshold": 0.198,
+    "roc_auc": 0.9667912681992454,
+    "accuracy": 0.9047957371225577,
+    "balanced_accuracy": 0.9042375628182564,
+    "precision": 0.9402985074626866,
+    "recall": 0.8617710583153347,
+    "f1": 0.8993238166791886,
+    "tn": 1350,
+    "fp": 76,
+    "fn": 192,
+    "tp": 1197
+  },
+  "val_predictions": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\artifacts\\publication_challenge_improved\\ensemble_predictions\\val_improved_predictions.csv",
+  "test_predictions": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\artifacts\\publication_challenge_improved\\ensemble_predictions\\test_improved_predictions.csv"
+}

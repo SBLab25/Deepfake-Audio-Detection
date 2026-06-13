@@ -1,0 +1,122 @@
+{
+  "per_seed": [
+    {
+      "seed": 17,
+      "best_epoch": 12,
+      "threshold": 0.017,
+      "val_auc": 0.9784284973111349,
+      "val_acc": 0.929595015576324,
+      "val_f1": 0.9263843648208469,
+      "test_auc": 0.9517492177063422,
+      "test_acc": 0.8788632326820603,
+      "test_f1": 0.8689973107952362,
+      "test_tn": 1343,
+      "test_fp": 83,
+      "test_fn": 258,
+      "test_tp": 1131
+    },
+    {
+      "seed": 42,
+      "best_epoch": 17,
+      "threshold": 0.12,
+      "val_auc": 0.9888220253943203,
+      "val_acc": 0.9545171339563863,
+      "val_f1": 0.952994204764971,
+      "test_auc": 0.9691106338421397,
+      "test_acc": 0.8984014209591474,
+      "test_f1": 0.89,
+      "test_tn": 1372,
+      "test_fp": 54,
+      "test_fn": 232,
+      "test_tp": 1157
+    },
+    {
+      "seed": 77,
+      "best_epoch": 10,
+      "threshold": 0.05712084679305553,
+      "val_auc": 0.9715176011159334,
+      "val_acc": 0.9177570093457944,
+      "val_f1": 0.917189460476788,
+      "test_auc": 0.9474893901895984,
+      "test_acc": 0.8753108348134991,
+      "test_f1": 0.8728721477725462,
+      "test_tn": 1259,
+      "test_fp": 167,
+      "test_fn": 184,
+      "test_tp": 1205
+    },
+    {
+      "seed": 123,
+      "best_epoch": 14,
+      "threshold": 0.011,
+      "val_auc": 0.9767850430125232,
+      "val_acc": 0.9283489096573209,
+      "val_f1": 0.9283489096573209,
+      "test_auc": 0.9635247693508502,
+      "test_acc": 0.8955595026642984,
+      "test_f1": 0.8967696629213483,
+      "test_tn": 1244,
+      "test_fp": 182,
+      "test_fn": 112,
+      "test_tp": 1277
+    },
+    {
+      "seed": 202,
+      "best_epoch": 8,
+      "threshold": 0.032,
+      "val_auc": 0.9645119499942526,
+      "val_acc": 0.9221183800623053,
+      "val_f1": 0.9218261413383365,
+      "test_auc": 0.9675591731062637,
+      "test_acc": 0.9030195381882771,
+      "test_f1": 0.8963159893657425,
+      "test_tn": 1362,
+      "test_fp": 64,
+      "test_fn": 209,
+      "test_tp": 1180
+    }
+  ],
+  "ensemble_summary": {
+    "protocol": "RawCh held-out-generator challenge",
+    "model": "SafariWavLMEnsemble",
+    "feature_root": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\WavLM_embeddings_unified",
+    "seeds": [
+      17,
+      42,
+      77,
+      123,
+      202
+    ],
+    "threshold": 0.198,
+    "val_metrics": {
+      "n": 1605,
+      "threshold": 0.198,
+      "roc_auc": 0.9856780258665415,
+      "accuracy": 0.940809968847352,
+      "balanced_accuracy": 0.9409203033400335,
+      "precision": 0.9335839598997494,
+      "recall": 0.9466327827191868,
+      "f1": 0.9400630914826499,
+      "tn": 765,
+      "fp": 53,
+      "fn": 42,
+      "tp": 745
+    },
+    "test_metrics": {
+      "n": 2815,
+      "threshold": 0.198,
+      "roc_auc": 0.9667912681992454,
+      "accuracy": 0.9047957371225577,
+      "balanced_accuracy": 0.9042375628182564,
+      "precision": 0.9402985074626866,
+      "recall": 0.8617710583153347,
+      "f1": 0.8993238166791886,
+      "tn": 1350,
+      "fp": 76,
+      "fn": 192,
+      "tp": 1197
+    },
+    "val_predictions": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\artifacts\\publication_challenge_improved\\ensemble_predictions\\val_improved_predictions.csv",
+    "test_predictions": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\artifacts\\publication_challenge_improved\\ensemble_predictions\\test_improved_predictions.csv"
+  }
+}

@@ -1,0 +1,72 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
+# Model checkpoints and exported model binaries
+*.pt
+*.pth
+*.ckpt
+*.onnx
+models/*
+!models/README.md
+
+# Audio and feature data should not be committed
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.npy
+*.npz
+data/raw/
+data/audio/
+data/features/**
+!data/features/
+!data/features/README.md
+data/embeddings/
+
+# Generated experiment outputs
+artifacts/**
+!artifacts/
+!artifacts/README.md
+!artifacts/publication_challenge_improved/
+!artifacts/publication_challenge_improved/README.md
+!artifacts/publication_challenge_improved/*.json
+!artifacts/publication_challenge_improved/graphs/
+!artifacts/publication_challenge_improved/graphs/*.png
+!artifacts/publication_challenge_improved/graphs/*.jpeg
+!artifacts/publication_challenge_improved/graphs/*.csv
+
+# Prediction dumps and per-seed generated folders
+*predictions*.csv
+artifacts/**/seed_*/
+artifacts/**/ensemble_predictions/
+

@@ -1,0 +1,32 @@
+{
+  "raw_root": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset",
+  "total": 8217,
+  "train": 6573,
+  "val": 820,
+  "test": 824,
+  "train_breakdown": {
+    "en_fake": 1738,
+    "en_real": 1819,
+    "hi_fake": 1508,
+    "hi_real": 1508
+  },
+  "val_breakdown": {
+    "en_fake": 217,
+    "en_real": 227,
+    "hi_fake": 188,
+    "hi_real": 188
+  },
+  "test_breakdown": {
+    "en_fake": 218,
+    "en_real": 228,
+    "hi_fake": 189,
+    "hi_real": 189
+  },
+  "train_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw_train\\Raw_train\\balanced_index.csv",
+  "val_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw_val\\Raw_val\\balanced_index.csv",
+  "test_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw_test\\Raw_test\\balanced_index.csv",
+  "seed": 42,
+  "train_ratio": 0.8,
+  "val_ratio": 0.1,
+  "test_ratio": 0.1
+}

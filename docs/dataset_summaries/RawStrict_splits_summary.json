@@ -1,0 +1,189 @@
+{
+  "project_root": "C:\\Users\\sovan\\Documents\\VS Code\\SDP",
+  "inputs": {
+    "train_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw_train\\Raw_train\\balanced_index.csv",
+    "val_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw_val\\Raw_val\\balanced_index.csv",
+    "test_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw_test\\Raw_test\\balanced_index.csv"
+  },
+  "dedup": {
+    "original_total": 8217,
+    "kept_total": 8209,
+    "dropped_duplicates": 8,
+    "dropped_examples": [
+      {
+        "hash": "86cc8e2508513799d5ef4e7e2d54bdde",
+        "kept_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-08390-01.mp3",
+        "kept_feature_path": "hi/real/01-08390-01.npy",
+        "dropped_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-08400-03.mp3",
+        "dropped_feature_path": "hi/real/01-08400-03.npy"
+      },
+      {
+        "hash": "5498ffbf7034ab70f9e08cb9d313270c",
+        "kept_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-08774-03.mp3",
+        "kept_feature_path": "hi/real/01-08774-03.npy",
+        "dropped_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-08779-01.mp3",
+        "dropped_feature_path": "hi/real/01-08779-01.npy"
+      },
+      {
+        "hash": "8158249ba63b32920d9f95f815f21cbb",
+        "kept_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-08838-01.mp3",
+        "kept_feature_path": "hi/real/01-08838-01.npy",
+        "dropped_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-08858-03.mp3",
+        "dropped_feature_path": "hi/real/01-08858-03.npy"
+      },
+      {
+        "hash": "a02c396e61dd6fdf816aed414dc09b56",
+        "kept_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-09163-02.mp3",
+        "kept_feature_path": "hi/real/01-09163-02.npy",
+        "dropped_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-09175-02.mp3",
+        "dropped_feature_path": "hi/real/01-09175-02.npy"
+      },
+      {
+        "hash": "1720fb5a5820c913ef1e492b8bd2c09f",
+        "kept_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-10263-01.mp3",
+        "kept_feature_path": "hi/real/01-10263-01.npy",
+        "dropped_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\01-10284-03.mp3",
+        "dropped_feature_path": "hi/real/01-10284-03.npy"
+      },
+      {
+        "hash": "3199452c012c79855f16e1c30b05895d",
+        "kept_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\02-12386-02.mp3",
+        "kept_feature_path": "hi/real/02-12386-02.npy",
+        "dropped_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\02-12409-01.mp3",
+        "dropped_feature_path": "hi/real/02-12409-01.npy"
+      },
+      {
+        "hash": "58a52bd0d89949e9bec86ec33e2a9659",
+        "kept_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\02-12676-02.mp3",
+        "kept_feature_path": "hi/real/02-12676-02.npy",
+        "dropped_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\02-12677-01.mp3",
+        "dropped_feature_path": "hi/real/02-12677-01.npy"
+      },
+      {
+        "hash": "f76e1fb6b041b5ca43c394fe66c40099",
+        "kept_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\02-18625-01.mp3",
+        "kept_feature_path": "hi/real/02-18625-01.npy",
+        "dropped_audio_path": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\Raw Dataset\\hindi real\\hindi real\\02-18657-01.mp3",
+        "dropped_feature_path": "hi/real/02-18657-01.npy"
+      }
+    ]
+  },
+  "strict_splits": {
+    "train_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawStrict_train\\RawStrict_train\\balanced_index.csv",
+    "val_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawStrict_val\\RawStrict_val\\balanced_index.csv",
+    "test_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawStrict_test\\RawStrict_test\\balanced_index.csv",
+    "train": 6566,
+    "val": 819,
+    "test": 824,
+    "train_breakdown": {
+      "en_fake": 1738,
+      "en_real": 1819,
+      "hi_fake": 1508,
+      "hi_real": 1501
+    },
+    "val_breakdown": {
+      "en_fake": 217,
+      "en_real": 227,
+      "hi_fake": 188,
+      "hi_real": 187
+    },
+    "test_breakdown": {
+      "en_fake": 218,
+      "en_real": 228,
+      "hi_fake": 189,
+      "hi_real": 189
+    }
+  },
+  "stratum_group_stats": {
+    "en_fake": {
+      "rows": 2173,
+      "groups": 2173,
+      "target": {
+        "train": 1738,
+        "val": 217,
+        "test": 218
+      },
+      "actual": {
+        "train": 1738,
+        "val": 217,
+        "test": 218
+      }
+    },
+    "en_real": {
+      "rows": 2274,
+      "groups": 1139,
+      "target": {
+        "train": 1819,
+        "val": 227,
+        "test": 228
+      },
+      "actual": {
+        "train": 1819,
+        "val": 227,
+        "test": 228
+      }
+    },
+    "hi_fake": {
+      "rows": 1885,
+      "groups": 1885,
+      "target": {
+        "train": 1508,
+        "val": 188,
+        "test": 189
+      },
+      "actual": {
+        "train": 1508,
+        "val": 188,
+        "test": 189
+      }
+    },
+    "hi_real": {
+      "rows": 1877,
+      "groups": 1820,
+      "target": {
+        "train": 1501,
+        "val": 187,
+        "test": 189
+      },
+      "actual": {
+        "train": 1501,
+        "val": 187,
+        "test": 189
+      }
+    }
+  },
+  "overlap_checks": {
+    "audio_path_train_val": 0,
+    "audio_path_train_test": 0,
+    "audio_path_val_test": 0,
+    "hash_train_val": 0,
+    "hash_train_test": 0,
+    "hash_val_test": 0,
+    "group_train_val": 0,
+    "group_train_test": 0,
+    "group_val_test": 0
+  },
+  "seed": 42,
+  "train_ratio": 0.8,
+  "val_ratio": 0.1,
+  "test_ratio": 0.1,
+  "unified_embeddings": {
+    "source_root": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\WavLM_embeddings",
+    "out_root": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\WavLM_embeddings_unified",
+    "copied": 8217,
+    "skipped_same": 0,
+    "conflicts": 0,
+    "missing_split_roots": [],
+    "missing_features_in_strict_splits": [
+      {
+        "train": 0
+      },
+      {
+        "val": 0
+      },
+      {
+        "test": 0
+      }
+    ]
+  }
+}

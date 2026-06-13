@@ -1,0 +1,33 @@
+script: ./src/safari_wavlm_ensemble_train.py
+target_auc: 0.96
+max_trials: 24
+metrics_filename: metrics_safari_wavlm_ensemble.json
+sweep_out_root: ./artifacts/sweeps/safari_wavlm_auc96
+
+base_args:
+  project_root: .
+  train_csv: ./data/splits/rawch/train.csv
+  val_csv: ./data/splits/rawch/val.csv
+  test_csv: ./data/splits/rawch/test.csv
+  train_feature_dir: ./data/features/WavLM_embeddings_unified
+  val_feature_dir: ./data/features/WavLM_embeddings_unified
+  test_feature_dir: ./data/features/WavLM_embeddings_unified
+  wavlm_train_feature_dir: ./data/features/WavLM_embeddings_unified
+  wavlm_val_feature_dir: ./data/features/WavLM_embeddings_unified
+  wavlm_test_feature_dir: ./data/features/WavLM_embeddings_unified
+  batch_size: 512
+  num_workers: 4
+  epochs: 50
+  patience: 8
+  amp: true
+  device: cuda
+  stats_samples: 50000
+
+search:
+  hidden_dim: [320, 384, 448]
+  lr: [0.0002, 0.0003, 0.0005]
+  max_lr: [0.0015, 0.002, 0.003]
+  weight_decay: [0.00005, 0.0001, 0.0002]
+  view_noise_std: [0.006, 0.01, 0.014]
+  view_drop_prob: [0.02, 0.03, 0.05]
+  seed: [17, 42]

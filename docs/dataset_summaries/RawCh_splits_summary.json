@@ -1,0 +1,81 @@
+{
+  "inputs": {
+    "strict_train_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawStrict_train\\RawStrict_train\\balanced_index.csv",
+    "strict_val_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawStrict_val\\RawStrict_val\\balanced_index.csv",
+    "strict_test_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawStrict_test\\RawStrict_test\\balanced_index.csv"
+  },
+  "policy": {
+    "en_fake_val_sources": [
+      "seedtts_files"
+    ],
+    "en_fake_test_sources": [
+      "openai",
+      "xtts"
+    ],
+    "en_real_assignment": "speaker-grouped to match EN fake split counts",
+    "hi_splits": "kept from strict split assignment"
+  },
+  "outputs": {
+    "train_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawCh_train\\RawCh_train\\balanced_index.csv",
+    "val_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawCh_val\\RawCh_val\\balanced_index.csv",
+    "test_csv": "C:\\Users\\sovan\\Documents\\VS Code\\SDP\\RawCh_test\\RawCh_test\\balanced_index.csv"
+  },
+  "counts": {
+    "train": 3789,
+    "val": 1605,
+    "test": 2815
+  },
+  "class_breakdown": {
+    "train": {
+      "en_fake": 374,
+      "en_real": 406,
+      "hi_fake": 1508,
+      "hi_real": 1501
+    },
+    "val": {
+      "en_fake": 599,
+      "en_real": 631,
+      "hi_fake": 188,
+      "hi_real": 187
+    },
+    "test": {
+      "en_fake": 1200,
+      "en_real": 1237,
+      "hi_fake": 189,
+      "hi_real": 189
+    }
+  },
+  "source_breakdown": {
+    "train": {
+      "en_fake|eng fake|flashspeech": 118,
+      "en_fake|eng fake|naturalspeech3": 32,
+      "en_fake|eng fake|prompttts2": 25,
+      "en_fake|eng fake|valle": 95,
+      "en_fake|eng fake|voicebox": 104,
+      "en_real|eng real|eng real": 406,
+      "hi_fake|hindi fake|fake_hindi_audio": 1508,
+      "hi_real|hindi real|hindi real": 1501
+    },
+    "val": {
+      "en_fake|eng fake|seedtts_files": 599,
+      "en_real|eng real|eng real": 631,
+      "hi_fake|hindi fake|fake_hindi_audio": 188,
+      "hi_real|hindi real|hindi real": 187
+    },
+    "test": {
+      "en_fake|eng fake|openai": 600,
+      "en_fake|eng fake|xtts": 600,
+      "en_real|eng real|eng real": 1237,
+      "hi_fake|hindi fake|fake_hindi_audio": 189,
+      "hi_real|hindi real|hindi real": 189
+    }
+  },
+  "overlap_checks": {
+    "audio_path_train_val": 0,
+    "audio_path_train_test": 0,
+    "audio_path_val_test": 0,
+    "feature_path_train_val": 0,
+    "feature_path_train_test": 0,
+    "feature_path_val_test": 0
+  }
+}
